@@ -18,7 +18,7 @@ You can configure LM Studio to run in increasing levels of configurability.
 
 Select between User, Power User, and Developer.
 
-<img src="/assets/docs/modes.png" style="width: 500px; margin-top:30px" data-caption="Choose a mode at the bottom of the app" />
+<img src="/assets/docs/modes.png" style="width:500px; margin-top:30px" data-caption="Choose a mode at the bottom of the app" />
 
 ### Which mode should I choose?
 

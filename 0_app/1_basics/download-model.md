@@ -6,7 +6,7 @@ index: 3
 
 LM Studio comes with a built-in model downloader that let's you download any supported model from [Hugging Face](https://huggingface.co).
 
-<img src="/assets/docs/discover.png" style="width: 500px; margin-top:30px" data-caption="Download models from the Discover tab in LM Studio" />
+<img src="/assets/docs/discover.png" style="width:500px; margin-top:30px" data-caption="Download models from the Discover tab in LM Studio" />
 
 <hr>
 

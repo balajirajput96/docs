@@ -22,20 +22,20 @@ Starting 0.3.17 (b10), LM Studio supports both local and remote MCP servers. You
 
 Switch to the "Program" tab in the right hand sidebar. Click `Install > Edit mcp.json`.
 
-<img src="/assets/docs/install-mcp.png"  data-caption="" style="width: 80%;" className="" />
+<img src="/assets/docs/install-mcp.png"  data-caption="" style="width:80%;" className="" />
 
 <br>
 
 This will open the `mcp.json` file in the in-app editor. You can add MCP servers by editing this file.
 
-<img src="/assets/docs/mcp-editor.png"  data-caption="Edit mcp.json using the in-app editor" style="width: 100%;" className="" />
+<img src="/assets/docs/mcp-editor.png"  data-caption="Edit mcp.json using the in-app editor" style="width:100%;" className="" />
 
 ### Example MCP to try: Hugging Face MCP Server
 
 This MCP server provides access to functions like model and dataset search.
 
 <div className="w-fit">
-  <a style="background: rgb(255,255,255)" href="https://lmstudio.ai/install-mcp?name=hf-mcp-server&config=eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL21jcCIsImhlYWRlcnMiOnsiQXV0aG9yaXphdGlvbiI6IkJlYXJlciA8WU9VUl9IRl9UT0tFTj4ifX0%3D">
+  <a style="background:rgb(255,255,255)" href="https://lmstudio.ai/install-mcp?name=hf-mcp-server&config=eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL21jcCIsImhlYWRlcnMiOnsiQXV0aG9yaXphdGlvbiI6IkJlYXJlciA8WU9VUl9IRl9UT0tFTj4ifX0%3D">
     <LightVariant>
       <img src="https://files.lmstudio.ai/deeplink/mcp-install-light.svg" alt="Add MCP Server hf-mcp-server to LM Studio" />
     </LightVariant>
