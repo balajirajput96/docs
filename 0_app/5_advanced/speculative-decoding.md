@@ -25,19 +25,19 @@ For a model to be used as a draft model, it must have the same "vocabulary" as t
 
 On `Power User` mode or higher, load a model, then select a `Draft Model` within the `Speculative Decoding` section of the chat sidebar:
 
-<img src="/assets/docs/speculative-decoding-setting.png" style="width:80%; margin-top: 20px; border: 1px solid rgba(0,0,0,0.2);" data-caption="The Speculative Decoding section of the chat sidebar">
+<img src="/assets/docs/speculative-decoding-setting.png" style="width:80%; margin-top:20px; border:1px solid rgba(0,0,0,0.2);" data-caption="The Speculative Decoding section of the chat sidebar">
 
 ### Finding compatible draft models
 
 You might see the following when you open the dropdown:
 
-<img src="/assets/docs/speculative-decoding-no-compatible.png" style="width:40%; margin-top: 20px; border: 1px solid rgba(0,0,0,0.2);" data-caption="No compatible draft models">
+<img src="/assets/docs/speculative-decoding-no-compatible.png" style="width:40%; margin-top:20px; border:1px solid rgba(0,0,0,0.2);" data-caption="No compatible draft models">
 
 Try to download a lower parameter variant of the model you have loaded, if it exists. If no smaller versions of your model exist, find a pairing that does.
 
 For example:
 
-<center style="margin: 20px;">
+<center style="margin:20px;">
 
 |          Main Model          |          Draft Model          |
 | :--------------------------: | :---------------------------: |
@@ -66,7 +66,7 @@ The key to faster generation of the main model is choosing a draft model that's 
 
 Here are general guidelines for the **maximum** draft model size you should select based on main model size (in parameters):
 
-<center style="margin: 20px;">
+<center style="margin:20px;">
 
 | Main Model Size | Max Draft Model Size to Expect Speed-Ups |
 | :-------------: | :--------------------------------------: |

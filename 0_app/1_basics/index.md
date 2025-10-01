@@ -25,7 +25,7 @@ Once you're all set up, you need to **download your first LLM**.
 
 Head over to the Discover tab to download models. Pick one of the curated options or search for models by search query (e.g. `"Llama"`). See more in-depth information about downloading models [here](/docs/basics/download-models).
 
-<img src="/assets/docs/discover.png" style="width: 500px; margin-top:30px" data-caption="The Discover tab in LM Studio" />
+<img src="/assets/docs/discover.png" style="width:500px; margin-top:30px" data-caption="The Discover tab in LM Studio" />
 
 ### 2. Load a model to memory
 
